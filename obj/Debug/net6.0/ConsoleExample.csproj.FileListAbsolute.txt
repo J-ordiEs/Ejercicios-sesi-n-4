@@ -1,0 +1,15 @@
+D:\Jorge\C#\ConsoleExample\bin\Debug\net6.0\ConsoleExample.exe
+D:\Jorge\C#\ConsoleExample\bin\Debug\net6.0\ConsoleExample.deps.json
+D:\Jorge\C#\ConsoleExample\bin\Debug\net6.0\ConsoleExample.runtimeconfig.json
+D:\Jorge\C#\ConsoleExample\bin\Debug\net6.0\ConsoleExample.dll
+D:\Jorge\C#\ConsoleExample\bin\Debug\net6.0\ConsoleExample.pdb
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.csproj.AssemblyReference.cache
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.AssemblyInfoInputs.cache
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.AssemblyInfo.cs
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.csproj.CoreCompileInputs.cache
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.dll
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\refint\ConsoleExample.dll
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.pdb
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ConsoleExample.genruntimeconfig.cache
+D:\Jorge\C#\ConsoleExample\obj\Debug\net6.0\ref\ConsoleExample.dll
